@@ -1,4 +1,6 @@
 // QueueLinked.h
+#ifndef QUEUE_H
+#define QUEUE_H
 
 #include <stdexcept>
 #include <iostream>
@@ -43,3 +45,4 @@ class QueueLinked : public Queue<DataType> {
     QueueNode* front;
     QueueNode* back;
 };
+#endif
