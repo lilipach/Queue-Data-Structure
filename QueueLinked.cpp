@@ -1,6 +1,6 @@
 //----------------------------------------------------------------
 //
-//	Laboratory  7       QueueLinked.cpp	
+// QueueLinked.cpp	
 // Author: Liliana Pacheco
 // Purpose: to create a linked queue and implement queue methods
 //
