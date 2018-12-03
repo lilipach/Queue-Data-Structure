@@ -1,6 +1,6 @@
 //--------------------------------------------------------------------
 //
-//  Laboratory 7, Programming Exercise 1                   storesim.cs
+//  storesim.cs
 //
 //  Program implementation shell.
 //
